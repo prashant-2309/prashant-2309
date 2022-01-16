@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Singh
-- 👀 I’m interested in Anime and Coding
-- 🌱 I’m currently learning Computer Engineering
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects related to machine learning and web development.
 - 📫 How to reach me - https://www.linkedin.com/in/prashant-singh-4a3750206/
 
