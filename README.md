@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [CLick Here](https://drive.google.com/file/d/1-ZPxedsQ4_I750hFoLEiR9IdIGf_kwuP/view)
 
-- ⚡ Fun fact **For engineers every course apart from engineering is easy**
+- ⚡ Fun fact **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard**
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
