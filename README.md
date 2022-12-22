@@ -24,9 +24,15 @@
 
 - ⚡ Fun fact **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard**
 
-## 🔥 Streak Stats
+## 📊 Github Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-2309&theme=algolia" alt="prashant-2309" /></p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-2309&show_icons=true&locale=en&layout=compact&theme=algolia" alt="prashant-2309" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 ## 🛠️ My Skills
 
